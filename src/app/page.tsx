@@ -15,7 +15,9 @@ import Newslater from "./components/news-letter";
 function Homepage(){
   return(
     <div>
+      {/* Comment Section */}
       <Hero />
+      {/* Feature Products */}
       <FeaturedProducts />
       <LatestProducts />
       <Offer />
