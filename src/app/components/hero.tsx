@@ -9,24 +9,24 @@ const slides = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
     buttonText: "Shop Now",
-    chairImage: "/chair.png", // Replace with the correct path
-    lampImage: "/lamp.png", // Replace with the correct path
+    chairImage: "/images/chair.png", // Replace with the correct path
+    lampImage: "/images/lamp.png", // Replace with the correct path
   },
   {
     title: "Modern Chair Designs for Your Home",
     description:
       "Discover the latest modern furniture trends to elevate your living space.",
     buttonText: "Shop Now",
-    chairImage: "/chair.png", // Replace with another chair image
-    lampImage: "/lamp.png", // Replace with another lamp image
+    chairImage: "/images/chair.png", // Replace with another chair image
+    lampImage: "/images/lamp.png", // Replace with another lamp image
   },
   {
     title: "Elegant Furniture for Every Space",
     description:
       "Bring timeless elegance to your home with our exclusive furniture collection.",
     buttonText: "Shop Now",
-    chairImage: "/chair.png", // Replace with another chair image
-    lampImage: "/lamp.png", // Replace with another lamp image
+    chairImage: "/images/chair.png", // Replace with another chair image
+    lampImage: "/images/lamp.png", // Replace with another lamp image
   },
 ];
 
